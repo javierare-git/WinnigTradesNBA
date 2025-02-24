@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/e080c5f6-4e05-46a7-851a-3f0cdbc640b0)
+
 # Análisis de Datos de Traspasos en la NBA 🏀
 
 Bienvenido a nuestro proyecto de análisis de datos enfocado en los traspasos de jugadores en la NBA. Este estudio proporciona información clave para entrenadores, directores deportivos y managers, con el objetivo de optimizar la toma de decisiones en la construcción y gestión de equipos.
